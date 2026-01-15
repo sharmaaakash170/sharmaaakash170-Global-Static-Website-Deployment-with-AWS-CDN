@@ -1,0 +1,6 @@
+bucket_name = "sharmaaakashbucket7860"
+acm_certificate_arn = "arn:aws:acm:us-east-1:326148035961:certificate/c614947d-2fbb-46a7-8aee-26b53a7db7bb"
+cloudfront_hosted_zone_id = "Z2FDTNDATAQYW2"
+domain_name = "legion.work.gd"
+env = "dev"
+hosted_zone_id = "Z03003562GBQWGD4UFX2A"
